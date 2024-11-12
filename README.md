@@ -2,10 +2,13 @@
 - 👀 I’m interested in:
   - Using Arduino/ESP32 in fun projects.
   - Writing simple programs in C#/WPF.
+  - Using PowerShell and Bash for quick solutions. (They're amazing!)
   - Learning more about all things programming.
 - 🌱 I’m currently learning:
   - C#
   - WPF
+  - PowerShell
+  - Bash
   - Misc. programming. (XML, JSON, etc.)
 - I'm currently working on a simple console app for
   cleaning up logs to make them more readable. I have
