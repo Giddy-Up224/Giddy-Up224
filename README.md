@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Giddy-Up224
-- 👀 I’m interested in:
+- 👨‍💻 I’m interested in:
   - Using Arduino/ESP32 in fun projects.
   - Writing simple programs in C#/WPF.
   - Using PowerShell and Bash for quick solutions. (They're amazing!)
   - Learning more about all things programming.
-- 🌱 I’m currently learning:
+- 📚 I’m currently learning:
   - C#
   - WPF
   - PowerShell
