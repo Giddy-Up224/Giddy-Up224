@@ -1,20 +1,14 @@
 - 👋 Hi, I’m @Giddy-Up224
 - 👨‍💻 I’m interested in:
   - Using Arduino/ESP32 in fun projects.
-  - Writing simple programs in C#/WPF.
-  - Using PowerShell and Bash for quick solutions. (They're amazing!)
+  - Using Python and Bash for quick solutions. (They're amazing!)
   - Learning more about all things programming.
 - 📚 I’m currently learning:
-  - C#
-  - WPF
-  - PowerShell
+  - Python
   - Bash
   - Misc. programming. (XML, JSON, etc.)
-- I'm currently working on a simple console app for
-  cleaning up logs to make them more readable. I have
-  a config file with the text to search for, and
-  the replacement text. It then outputs the cleaned
-  log to a new file.
+  - Embedded development (CYD, ESP, etc.)
+- I'm currently working an app for RS485 communications in lithium batteries.
 
 <!---
 Giddy-Up224/Giddy-Up224 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
